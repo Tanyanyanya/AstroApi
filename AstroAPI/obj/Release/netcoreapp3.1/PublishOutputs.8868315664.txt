@@ -1,0 +1,10 @@
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AstroAPI.exe
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AstroAPI.dll
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AstroAPI.deps.json
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AstroAPI.runtimeconfig.json
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AstroAPI.pdb
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AWSSDK.Core.dll
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\AWSSDK.DynamoDBv2.dll
+D:\Учёба\Новая папка\AstroAPI\AstroAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
